@@ -6,4 +6,5 @@ This is where I keep my Python projects.
 
 ## Table of Contents 📚
   - [Database, Data Cleaning, and Exploratory Data Analysis on Salary dataset](https://github.com/AlvinOng98/salary-analysis-project)
-  - [Indeed Job Scraping and Analysis 🌐](https://github.com/AlvinOng98/indeed-job-analysis)
+  - [Indeed Job Scraping and Analysis](https://github.com/AlvinOng98/indeed-job-analysis)
+  - [Premier League Analysis](https://github.com/AlvinOng98/premier-league-analysis/tree/main)
